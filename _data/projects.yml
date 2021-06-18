@@ -1,0 +1,44 @@
+- layout: left
+  name: Database System
+  # link: www.github.com/SpiceOwlf/CS411_track1_proj
+  quote: >
+    Jan 2021 – May 2021
+  github: https://github.com/SpiceOwlf/CS411_track1_proj
+
+  description: |
+    •	Developed a website that mimic the functionalities of Amazon.
+
+    •	The major language being used is JavaScript. The website utilized react framework for frontend, express as backend, and a SQL database management system on Google Cloud Platform to manage the data.
+    
+    •	Used React Hooks and React Components to enhance the development, and make subparts reusable in the implementation.
+    
+    •	Designed a web crawler with Scrapy in Python that will pull GPU related data from internet.
+
+
+- layout: right
+  name: User Interface Design 
+  date: Jan 2021 – May 2021
+  # link: 
+  # github:
+  quote: >
+    Jan 2021 – May 2021
+  description: |
+    •	Developed a visual appealing mobile phone app that achieved similar functionalities as Spotify from scratch.
+
+    •	Experienced entire design lifecycle, which includes designing phase, user interview phase and implementation phase. 
+
+    •	Used flutter as frontend, flask as backend and handle the saved files locally. The project used JavaScript majorly, as well as other common languages like HTML and CSS. 
+
+- layout: left
+  name: Software Engineering 	
+  date: Sep 2020 – Dec 2020
+  # link: 
+  # github:
+  quote: >
+    Jan 2021 – May 2021
+  description: |
+    •	Implemented multiple programing projects, which include developing Java web applications with bash scripts and Maven; building databases and using databases (SQL) in web applications; implementing different design patterns.
+
+    •	Built Selenium test and JUnit test for the website, testing its functionality and edge cases.
+
+    •	Utilized JSP for frontend and MariaDB as database.

@@ -1,0 +1,34 @@
+- name: University of Illinois at Urbana-Champaign
+  dates: 2020 - 2021
+  
+  description: |
+    <mark>CS411<mark> 
+    - Database Systems: SQL, NoSQL, MongoDB, Neo4j, Java, React, Express, Full Stack Development
+    
+    <mark>CS465<mark>
+    - User Interface Design: Flutter, Flask, Full Stack Development
+    
+    <mark>CS440<mark> 
+    - Artificial Intelligence Searching Algorithms, Naive Bayes, Unigram/Bigram Model, HMM POS tagging, KNN, Neural Nets and Reinforcement Learning
+    
+    <mark>CS445<mark> 
+    - Computational Photography: Hybrid Images, Image Quilting, Domain Fusion, Image-based Lighting and Video Stitching
+    
+    <mark>CS427<mark> 
+    - Software Engineering: Unit Testing, Software Development Process(ex. Agile Development), Full Stack Development
+    
+    <mark>CS565<mark> 
+    - Human-Computer Interaction: Literature Studying over Cognitive Engineering and HCI issues.
+
+    During my years at UIUC, I took lots of challenging courses that both borderned my skill sets and honed my coding skills. 
+    I learned and exercised extensive knowledge over full-stack development: React and Spring Boot for frontend, Express and Flask 
+    for backend, and Google Cloud Platform to host our Database as well as the server. Other than that, I make use of third-party tools 
+    like mySQLworkbench and Postman to help implement the project. 
+    
+
+
+
+- name: Boston College
+  dates: 2016 - 2020
+  description: |
+    Bachelor of Science in Computer Science
