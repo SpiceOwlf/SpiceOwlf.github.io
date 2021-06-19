@@ -6,13 +6,12 @@
   github: https://github.com/SpiceOwlf/CS411_track1_proj
 
   description: |
-    •	Developed a website that mimic the functionalities of Amazon.
-
-    •	The major language being used is JavaScript. The website utilized react framework for frontend, express as backend, and a SQL database management system on Google Cloud Platform to manage the data.
-    
-    •	Used React Hooks and React Components to enhance the development, and make subparts reusable in the implementation.
-    
-    •	Designed a web crawler with Scrapy in Python that will pull GPU related data from internet.
+    This year, there is a huge graphic card shortcome and people cannot get their favorite GPUs anywhere. 
+    As one of them, I think it is a good idea to develop a simple webpage that can take in user’s preferences as
+    a wishlist and notify users whenever their desired graphic cards are in stock. In order to realize this idea, 
+    I used multiple technology stacks with my team: <mark>React</mark> as frontend, <mark>Express</mark> as backend and Google <mark>SQL</mark> as Database. 
+    Furthermore, I used a web crawler with <mark>Scrapy</mark> in <mark>Python</mark>, which will search GPU related data from amazon and feed those 
+    to our database. The result website was hosted and presented on Google app engine.
 
 
 - layout: right
@@ -23,11 +22,14 @@
   quote: >
     Jan 2021 – May 2021
   description: |
-    •	Developed a visual appealing mobile phone app that achieved similar functionalities as Spotify from scratch.
+    During this project, I experience the entire development process from brainstorming the project idea to implementing the application. As a fullstack project that 
+    will be presented on an android device, me and my team used <mark>flutter</mark> for frontend, <mark>flask</mark> for backend.
+    
+    The application mimics the functions of Spotify. On top of that, users can upload their favorite music to our App and collaborate with other 
+    users to edit and create their own music. From this project, I not only explored and learned flutter and flask, but also experienced the full 
+    development process with team, which is a great opportunity for me.
 
-    •	Experienced entire design lifecycle, which includes designing phase, user interview phase and implementation phase. 
-
-    •	Used flutter as frontend, flask as backend and handle the saved files locally. The project used JavaScript majorly, as well as other common languages like HTML and CSS. 
+    
 
 - layout: left
   name: Software Engineering 	
@@ -37,8 +39,13 @@
   quote: >
     Jan 2021 – May 2021
   description: |
-    •	Implemented multiple programing projects, which include developing Java web applications with bash scripts and Maven; building databases and using databases (SQL) in web applications; implementing different design patterns.
+    This is a package of many programming assignments that prepare me for becoming a software engineer.
+    - Learned how to build and deploy simple Java web applications using both bash scripts and Maven.
+    - Learned basic Java web application development techniques, which help you to work on iTrust project this semester.
+    - Learned basic databases development techniques and how to use databases in web applications.
+    - Learned different design patterns and realize many of them using Java.
+    - Learned unit test and used JUnit to test the completeness of a sample project.
+    - Learned the standard rules for coding, code smells and debugged a set of problematic code samples.
+    - Used iTurst(an academic pharmacy system) as a skeleton and implemented nine user cases. Check the details at [UIUC CS427 Course Wiki](https://wiki.illinois.edu/wiki/display/CS427FA20/T12).
+    - Tested the result with JUnit and Selenium testing, including checking the functionality of buttons, links and login systems.
 
-    •	Built Selenium test and JUnit test for the website, testing its functionality and edge cases.
-
-    •	Utilized JSP for frontend and MariaDB as database.
