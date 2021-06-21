@@ -1,18 +1,20 @@
 - name: University of Illinois at Urbana-Champaign
   dates: 2020 - 2021
-  
   description: |
+    Master of Computer Science, GPA 3.93
+
     <mark>CS411</mark> Database Systems: SQL, NoSQL, MongoDB, Neo4j, Java, React, Express, Full Stack Development
     
     <mark>CS465</mark> User Interface Design: Flutter, Flask, Full Stack Development
-    
+
+    <mark>CS565</mark> Human-Computer Interaction: Literature Studying over Cognitive Engineering and HCI issues.
+
     <mark>CS440</mark> Artificial Intelligence Searching Algorithms, Naive Bayes, Unigram/Bigram Model, HMM POS tagging, KNN, Neural Nets and Reinforcement Learning
     
     <mark>CS445</mark> Computational Photography: Hybrid Images, Image Quilting, Domain Fusion, Image-based Lighting and Video Stitching
     
     <mark>CS427</mark> Software Engineering: Unit Testing, Software Development Process(ex. Agile Development), Full Stack Development
     
-    <mark>CS565</mark> Human-Computer Interaction: Literature Studying over Cognitive Engineering and HCI issues.
 
     During my years at UIUC, I took lots of challenging courses that both borderned my skill sets and honed my coding skills. 
     I learned and exercised extensive knowledge over full-stack development: <mark>React</mark> and <mark>Spring Boot</mark> for frontend, <mark>Express</mark> and <mark>Flask</mark> 
@@ -25,4 +27,16 @@
 - name: Boston College
   dates: 2016 - 2020
   description: |
-    Bachelor of Science in Computer Science
+    Bachelor of Science in Computer Science, GPA: 3.5
+
+    During my undergraduate studying, I explored and learned basic CS courses like <mark>Algorithm</mark>, <mark>Data Structure</mark>, and <mark>Object Oriented Programming</mark>, 
+    which helped me decide my career in Computer Science. Other than that, Boston College also provided me with opportunities in other fields of studying. Some of the most memorable 
+    courses I took were Mineralogy, where I went to an abandoned mine place for digging Magnetite; Theology, which enabled me to taste the touch of 
+    the Bible and reflect on the true meaning of oneself.
+
+    Other than that, I managed a Senior Thesis under the guidance of Professor
+     [Lewis Tseng](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/lewis-tseng.html) 
+     on topic of Blockchain. To be more specific, we studied and benchmarked Hyperledger Fabric, based on throughput, latency and transaction numbers. 
+     Furthermore, we deployed <mark>Hyperledger Fabric</mark> network through Kubernetes, Docker, Virtual Machine and Google Cloud Platform to distinguish their 
+     differences in performance. Previous work, [Make Benchmarking Blockchains Configurable and Extensible](https://ieeexplore.ieee.org/document/8952155), 
+     was under PRDC (Fast Abstracts Submission) submission.
