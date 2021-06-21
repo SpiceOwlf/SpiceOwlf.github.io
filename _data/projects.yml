@@ -16,7 +16,6 @@
 
 - layout: right
   name: User Interface Design 
-  date: Jan 2021 – May 2021
   # link: 
   # github:
   quote: >
@@ -33,11 +32,10 @@
 
 - layout: left
   name: Software Engineering 	
-  date: Sep 2020 – Dec 2020
   # link: 
   # github:
   quote: >
-    Jan 2021 – May 2021
+    Sep 2020 – Dec 2020
   description: |
     This is a package of many programming assignments that prepare me for becoming a software engineer.
     - Learned how to build and deploy simple Java web applications using both bash scripts and Maven.
