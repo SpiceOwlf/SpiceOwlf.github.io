@@ -1,0 +1,7 @@
+running locally:
+cd [the repository]
+bundle install
+bundle exec jekyll serve
+serve at http://localhost:4000
+
+check details at https://github.com/sproogen/modern-resume-theme
